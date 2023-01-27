@@ -80,7 +80,6 @@ h5 {
   box-shadow: none;
 }
 
-/* Kotak pesan ditampilkan ketika pengguna mengklik kolom password */
 #message {
   display: none;
   background: #f1f1f1;
