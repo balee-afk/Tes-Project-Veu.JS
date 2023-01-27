@@ -1,4 +1,4 @@
-# Tes Aplikasi Vue.JS
+# Tes Project Vue.JS
 
 #Vue.js 
 <br>
