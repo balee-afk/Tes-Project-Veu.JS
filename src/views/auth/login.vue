@@ -6,7 +6,7 @@
       <input type="email" placeholder="email@example.org" v-model="login.email" required>
       <div v-if="validation.email">
         {{ validation.email[0] }}
-      </div>
+      </div> 
       <label for="">Password</label>
       <input type="password" v-model="login.password" id="psw" name="psw" placeholder="********" pattern="(?=.).{8,}"
         title="Harus berisi setidaknya 8 karakter atau lebih" required>
