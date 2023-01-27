@@ -1,4 +1,4 @@
-# tes-app
+# Tes Aplikasi Vue.JS
 
 #Vue.js 
 <br>
@@ -8,4 +8,4 @@
 <br>
 #npm run dev
 <br>
-# Tes-Project-Veu.JS
+# Tes-Project-Vue.JS
