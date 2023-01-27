@@ -1,24 +1,12 @@
-# tesproject
+# tes-app
 
-## Project setup
-```
-npm install
-```
+<br>
+#Program tes tertulis Front End
+<br>
+#Vue.js 3
+<br>
+<br>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#npm install
+<br>
+#npm run dev
